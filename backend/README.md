@@ -27,3 +27,9 @@ The Articles App allows authors to write and manage articles. Users can read the
 
 - **Authors** can register, log in, log out, and manage their profile.
 - **Users** can read articles published by authors.
+
+## Run
+```bash
+npm install
+npm run start
+```
