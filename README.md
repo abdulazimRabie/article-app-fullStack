@@ -1,4 +1,6 @@
 # Articles App
+[demo_DCK0kIuG.webm](https://github.com/user-attachments/assets/dc0d831e-3f99-4177-b9cb-d8cb4d7bf8e6)
+
 
 ## Description
 
